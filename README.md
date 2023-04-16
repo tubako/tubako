@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 
 - 🌱 I’m currently working on expanding [my portfolio](https://github.com/tubako/my-portfolio) with more SQL, R and Python projects.
